@@ -28,7 +28,7 @@
  */
 
 #include <Wire.h>
-#include <GroveColorSensor.h>
+#include <Grove_I2C_Color_Sensor.h>
 #include <ChainableLED.h>
 
 #define CLK_PIN   7
