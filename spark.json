@@ -1,0 +1,9 @@
+{
+  "name": "Grove Color Sensor",
+  "author": "Seeed Studio",
+  "license": "The LGPL License V2.1.",
+  "version": "1.0",
+  "description": "Grove Color Sensor library that illustrates coding conventions of a Spark Library"
+}
+
+
