@@ -1,4 +1,4 @@
-#include "GroveColorSensor.h"
+#include "Grove_I2C_Color_Sensor.h"
 #include <Wire.h>
 #include <math.h>
 
