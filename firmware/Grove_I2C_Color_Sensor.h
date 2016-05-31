@@ -17,7 +17,7 @@
 
 #include "application.h"
 
-#include <Registers.h>
+#include "Registers.h"
 
 class GroveColorSensor
 {
