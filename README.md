@@ -1,3 +1,4 @@
+Modify source code and support Particle library from Seeed Studio.
 Grove - I2C Color Sensor
 ------------------------
 
