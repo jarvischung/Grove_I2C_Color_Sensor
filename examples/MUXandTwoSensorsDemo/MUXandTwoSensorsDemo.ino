@@ -37,8 +37,7 @@
 //  the two sensors.
 /******************************************************************************/
 
-#include <Wire.h>
-#include <GroveColorSensor.h>
+#include <Grove_I2C_Color_Sensor.h>
 #include <Utilities.h>
 
 GroveColorSensor leftColorSensor;
